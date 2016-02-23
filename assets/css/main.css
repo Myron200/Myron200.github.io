@@ -415,7 +415,7 @@ a:after {
 	background-image: url(https://www.bax-shop.nl/images/beats_by_dre_solo_2_nieuws_assortiment_698.jpg); 
     background-size:100% 100%;
     background-repeat: no-repeat;
-    max-height: 20000px;
+    height: 20000px;
 }
 
 .divider2 {
