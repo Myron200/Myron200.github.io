@@ -638,4 +638,6 @@ a:after {
 	}
 }
 #one {position: relative; 
-    left: 350px;}
+    left: 350px;
+width:400px;
+height:400px;}
