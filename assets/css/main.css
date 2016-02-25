@@ -637,7 +637,7 @@ a:after {
 		line-height: 38px;
 	}
 }
-#one {position: relative; 
+#one img{position: relative; 
     left: 350px;
 width:400px;
 height:400px;}
