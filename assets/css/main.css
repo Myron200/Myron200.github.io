@@ -641,21 +641,28 @@ a:after {
     left: 350px;
 width:400px;
 height:400px;}
+
 #two img{position: relative;
 left:450px;}
+
 #three img{position:relative;
 height:400px;
 width:600px;
 left:255px;}
+
 #four img{position: relative;
 left:350px;}
+
 #five img{position:relative;
 width:300px;
 height:450px;
 left:400px;}
-#six img{height:400px;
+
+#six img{position:relative;
+    height:400px;
 width:500px;
 left:250px;}
+
 #seven
 #eight
 #nine
