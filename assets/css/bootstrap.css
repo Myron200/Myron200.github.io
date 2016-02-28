@@ -309,9 +309,9 @@ img {
 }
 .img-responsive {
   display: block;
-  width:450px;
-  height: 450px;
-  padding-left:100px;
+  width:600px;
+  height: 600px;
+  padding-left:200px;
 }
 .img-rounded {
   border-radius: 6px;
