@@ -696,4 +696,4 @@ left:150px;}
 
 #office img{position: relative; height:400px; width:600px; left: 250px;}
 
-#beatS img{left:100px;}
+#beatS.relative{position:relative;left:100px;}
